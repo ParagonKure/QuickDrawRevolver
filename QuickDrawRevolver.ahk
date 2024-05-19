@@ -57,6 +57,4 @@ Send, {Lbutton}
 sleep, 1
 Send, {Lbutton}
 sleep, 1
-Send, {1}
-sleep, 1
 }
